@@ -20,3 +20,13 @@ GO
 EXEC sp_addextendedproperty @name = N'MS_Description', @value = N'Basic information 
 about Customer', @level0type = N'SCHEMA', @level0name = N'dbo', @level1type = N'TABLE', @level1name = N'Customer';
 GO
+
+
+
+
+-- ************************************** PostScript
+
+dxfgvhbnjkml
+
+GO
+-- ************************************** PostScript End [dbo].[Customer]
